@@ -1,0 +1,6 @@
+C:\Users\Tridip\c#\my_tasks\dec_23\AnonymousTypeBasic\AnonymousExample\AnonymousExample\bin\Debug\AnonymousExample.exe.config
+C:\Users\Tridip\c#\my_tasks\dec_23\AnonymousTypeBasic\AnonymousExample\AnonymousExample\bin\Debug\AnonymousExample.exe
+C:\Users\Tridip\c#\my_tasks\dec_23\AnonymousTypeBasic\AnonymousExample\AnonymousExample\bin\Debug\AnonymousExample.pdb
+C:\Users\Tridip\c#\my_tasks\dec_23\AnonymousTypeBasic\AnonymousExample\AnonymousExample\obj\Debug\AnonymousExample.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_23\AnonymousTypeBasic\AnonymousExample\AnonymousExample\obj\Debug\AnonymousExample.exe
+C:\Users\Tridip\c#\my_tasks\dec_23\AnonymousTypeBasic\AnonymousExample\AnonymousExample\obj\Debug\AnonymousExample.pdb
