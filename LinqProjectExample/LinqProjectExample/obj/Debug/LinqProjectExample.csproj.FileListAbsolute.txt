@@ -1,0 +1,7 @@
+C:\Users\Tridip\source\repos\LinqProjectExample\LinqProjectExample\bin\Debug\LinqProjectExample.exe.config
+C:\Users\Tridip\source\repos\LinqProjectExample\LinqProjectExample\bin\Debug\LinqProjectExample.exe
+C:\Users\Tridip\source\repos\LinqProjectExample\LinqProjectExample\bin\Debug\LinqProjectExample.pdb
+C:\Users\Tridip\source\repos\LinqProjectExample\LinqProjectExample\obj\Debug\LinqProjectExample.csprojAssemblyReference.cache
+C:\Users\Tridip\source\repos\LinqProjectExample\LinqProjectExample\obj\Debug\LinqProjectExample.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\source\repos\LinqProjectExample\LinqProjectExample\obj\Debug\LinqProjectExample.exe
+C:\Users\Tridip\source\repos\LinqProjectExample\LinqProjectExample\obj\Debug\LinqProjectExample.pdb
