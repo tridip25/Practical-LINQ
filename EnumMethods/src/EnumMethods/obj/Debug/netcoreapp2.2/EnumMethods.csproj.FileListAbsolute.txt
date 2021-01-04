@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\dec_23\EnumMethods\src\EnumMethods\bin\Debug\netcoreapp2.2\EnumMethods.deps.json
+C:\Users\Tridip\c#\my_tasks\dec_23\EnumMethods\src\EnumMethods\bin\Debug\netcoreapp2.2\EnumMethods.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\dec_23\EnumMethods\src\EnumMethods\bin\Debug\netcoreapp2.2\EnumMethods.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\dec_23\EnumMethods\src\EnumMethods\bin\Debug\netcoreapp2.2\EnumMethods.dll
+C:\Users\Tridip\c#\my_tasks\dec_23\EnumMethods\src\EnumMethods\bin\Debug\netcoreapp2.2\EnumMethods.pdb
+C:\Users\Tridip\c#\my_tasks\dec_23\EnumMethods\src\EnumMethods\obj\Debug\netcoreapp2.2\EnumMethods.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_23\EnumMethods\src\EnumMethods\obj\Debug\netcoreapp2.2\EnumMethods.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_23\EnumMethods\src\EnumMethods\obj\Debug\netcoreapp2.2\EnumMethods.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_23\EnumMethods\src\EnumMethods\obj\Debug\netcoreapp2.2\EnumMethods.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\dec_23\EnumMethods\src\EnumMethods\obj\Debug\netcoreapp2.2\EnumMethods.dll
+C:\Users\Tridip\c#\my_tasks\dec_23\EnumMethods\src\EnumMethods\obj\Debug\netcoreapp2.2\EnumMethods.pdb

@@ -1,0 +1,7 @@
+C:\Users\Tridip\c#\my_tasks\dec_23\AnonymousTypeBasic\LinqJoinExample\LinqJoinExample\bin\Debug\LinqJoinExample.exe.config
+C:\Users\Tridip\c#\my_tasks\dec_23\AnonymousTypeBasic\LinqJoinExample\LinqJoinExample\bin\Debug\LinqJoinExample.exe
+C:\Users\Tridip\c#\my_tasks\dec_23\AnonymousTypeBasic\LinqJoinExample\LinqJoinExample\bin\Debug\LinqJoinExample.pdb
+C:\Users\Tridip\c#\my_tasks\dec_23\AnonymousTypeBasic\LinqJoinExample\LinqJoinExample\obj\Debug\LinqJoinExample.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_23\AnonymousTypeBasic\LinqJoinExample\LinqJoinExample\obj\Debug\LinqJoinExample.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_23\AnonymousTypeBasic\LinqJoinExample\LinqJoinExample\obj\Debug\LinqJoinExample.exe
+C:\Users\Tridip\c#\my_tasks\dec_23\AnonymousTypeBasic\LinqJoinExample\LinqJoinExample\obj\Debug\LinqJoinExample.pdb
