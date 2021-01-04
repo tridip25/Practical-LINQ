@@ -1,0 +1,7 @@
+C:\Users\Tridip\c#\my_tasks\dec_23\AnonymousTypeBasic\SelectManyExample\SelectManyExample\bin\Debug\SelectManyExample.exe.config
+C:\Users\Tridip\c#\my_tasks\dec_23\AnonymousTypeBasic\SelectManyExample\SelectManyExample\bin\Debug\SelectManyExample.exe
+C:\Users\Tridip\c#\my_tasks\dec_23\AnonymousTypeBasic\SelectManyExample\SelectManyExample\bin\Debug\SelectManyExample.pdb
+C:\Users\Tridip\c#\my_tasks\dec_23\AnonymousTypeBasic\SelectManyExample\SelectManyExample\obj\Debug\SelectManyExample.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_23\AnonymousTypeBasic\SelectManyExample\SelectManyExample\obj\Debug\SelectManyExample.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_23\AnonymousTypeBasic\SelectManyExample\SelectManyExample\obj\Debug\SelectManyExample.exe
+C:\Users\Tridip\c#\my_tasks\dec_23\AnonymousTypeBasic\SelectManyExample\SelectManyExample\obj\Debug\SelectManyExample.pdb
