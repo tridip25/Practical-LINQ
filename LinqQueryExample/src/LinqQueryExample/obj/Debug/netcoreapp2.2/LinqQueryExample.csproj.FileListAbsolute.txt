@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\dec_22\LinqQueryExample\src\LinqQueryExample\bin\Debug\netcoreapp2.2\LinqQueryExample.deps.json
+C:\Users\Tridip\c#\my_tasks\dec_22\LinqQueryExample\src\LinqQueryExample\bin\Debug\netcoreapp2.2\LinqQueryExample.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\dec_22\LinqQueryExample\src\LinqQueryExample\bin\Debug\netcoreapp2.2\LinqQueryExample.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\dec_22\LinqQueryExample\src\LinqQueryExample\bin\Debug\netcoreapp2.2\LinqQueryExample.dll
+C:\Users\Tridip\c#\my_tasks\dec_22\LinqQueryExample\src\LinqQueryExample\bin\Debug\netcoreapp2.2\LinqQueryExample.pdb
+C:\Users\Tridip\c#\my_tasks\dec_22\LinqQueryExample\src\LinqQueryExample\obj\Debug\netcoreapp2.2\LinqQueryExample.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_22\LinqQueryExample\src\LinqQueryExample\obj\Debug\netcoreapp2.2\LinqQueryExample.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_22\LinqQueryExample\src\LinqQueryExample\obj\Debug\netcoreapp2.2\LinqQueryExample.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_22\LinqQueryExample\src\LinqQueryExample\obj\Debug\netcoreapp2.2\LinqQueryExample.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\dec_22\LinqQueryExample\src\LinqQueryExample\obj\Debug\netcoreapp2.2\LinqQueryExample.dll
+C:\Users\Tridip\c#\my_tasks\dec_22\LinqQueryExample\src\LinqQueryExample\obj\Debug\netcoreapp2.2\LinqQueryExample.pdb
